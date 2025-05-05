@@ -23,3 +23,9 @@ How to manipulate these data structures and use them effectively in programs.
 Day 06: String Manipulation
 Techniques for manipulating strings in Python.
 Learning string methods and format options for better data handling.
+
+Day 07:
+Understanding Functions, Parameters and Arguments , Return Statement
+
+Day 08:
+Scope of Variables, Debugging with Print Statements, Hands-On Exercises:Ceaser Cipher
