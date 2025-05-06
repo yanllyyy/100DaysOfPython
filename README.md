@@ -29,3 +29,6 @@ Understanding Functions, Parameters and Arguments , Return Statement
 
 Day 08:
 Scope of Variables, Debugging with Print Statements, Hands-On Exercises:Ceaser Cipher
+
+Day 09:
+Python Dictionaries, Nested lists, Dictionaries, Hands-On Exercises: Highest Bidder Finder
